@@ -85,5 +85,15 @@ body
 {
   font-size: 2em;
   color: white; 
-  border: .05rem solid hsl(240, 25, 23%);
+  border: .05rem solid hsl(240, 2%, 23%);
+  text-transform: uppercase;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
+.tile[data-state="active"]
+{
+  border-color: hsl(200, 1%, 34%);
 }
