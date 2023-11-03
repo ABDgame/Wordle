@@ -1,4 +1,5 @@
 # Wordle
 
-Reutilizar a estrutura da parte svg, para montar
-o quebra-cabeça =D.
+CÓDIGO FONTE:
+#
+https://youtu.be/_HBqfV2CpQI?si=DglZDoDyshRH50Xf
